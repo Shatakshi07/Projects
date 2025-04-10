@@ -1,0 +1,6 @@
+This model is SU_Net_DRIVE_ReTrain2: 
+args: Namespace(BatchNorm=False, GroupNorm=True, SubImageID=20, batch_size=1, datasetID=0, epochs=301, gpu_avaiable='0', img_size=512, lr=0.001, model_id=3, my_description='DRIVE_ReTrain2', n_class=2, use_gpu=True)
+train lens: 20 | test lens: 20
+
+---------------------------------------------
+
